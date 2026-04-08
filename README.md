@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project focuses on analyzing travel data to uncover insights related to pricing trends, destination popularity, customer sentiment, and seasonal patterns. The dashboard is built using Microsoft Excel with interactive features for better decision-making.
+🚀 Built an interactive Excel dashboard project focuses on analyzing travel data to uncover insights related to pricing trends, destination popularity, customer sentiment, and seasonal patterns. The dashboard is built using Microsoft Excel with interactive features for better decision-making.
 
 ---
 
@@ -45,6 +45,8 @@ This project focuses on analyzing travel data to uncover insights related to pri
 ---
 
 ## 📸 Dashboard Preview
+
+Below is the interactive dashboard built using Excel:
 
 ![Dashboard](dashboard.png)
 
